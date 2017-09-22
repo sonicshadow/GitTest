@@ -11,6 +11,7 @@ namespace GitTest.Controllers
         public ActionResult Index()
         {
             string str = "2222222";
+            str = "11111";
             int i = 2;
             i++;
             i += 2;
