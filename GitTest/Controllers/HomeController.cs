@@ -12,6 +12,7 @@ namespace GitTest.Controllers
         {
             string str = "2222222";
             str = "11111";
+            str = "111ss";
             int i = 2;
             i++;
             i += 2;
