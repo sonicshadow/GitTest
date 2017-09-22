@@ -13,6 +13,7 @@ namespace GitTest.Controllers
             string str = "11";
             int i = 1;
             i++;
+            i += 2;
             return View();
         }
 
