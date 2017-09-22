@@ -14,6 +14,7 @@ namespace GitTest.Controllers
             int i = 1;
             i++;
             i += 2;
+            i = 1;
             return View();
         }
 
